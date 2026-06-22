@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 
 //  Create a method getMaximum(int a, int b) that returns the larger number.

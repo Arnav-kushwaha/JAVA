@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "add_two_numbers",
+            "request": "launch",
+            "mainClass": "Methods.add_two_numbers",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Array.Arrays",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "is_even",
             "request": "launch",
             "mainClass": "Methods.is_even",

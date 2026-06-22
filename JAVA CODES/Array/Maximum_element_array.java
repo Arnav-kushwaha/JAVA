@@ -1,3 +1,4 @@
+package Array;
 public class Maximum_element_array {
     public static void main(String[]args){
         int arr[]={10,20,-30,-444,-510,432};

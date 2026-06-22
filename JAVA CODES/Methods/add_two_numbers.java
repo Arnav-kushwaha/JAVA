@@ -1,3 +1,4 @@
+package Methods;
 public class add_two_numbers{
     public static void main(String[]args){
 

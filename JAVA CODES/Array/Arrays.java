@@ -1,3 +1,4 @@
+package Array;
 public class Arrays{
    public static void main(String[] args){
         int arr[]={4,2,-5,21,15};

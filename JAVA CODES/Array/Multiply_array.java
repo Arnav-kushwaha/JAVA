@@ -1,3 +1,4 @@
+package Array;
 public class Multiply_array {
     public static void main(String[]args){
         int arr[]={10,20,40,2};

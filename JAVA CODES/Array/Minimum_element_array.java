@@ -1,3 +1,4 @@
+package Array;
 import java.util.Scanner;
 public class Minimum_element_array {
 
