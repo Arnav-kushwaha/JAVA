@@ -1,3 +1,4 @@
+package Methods;
 public class Print_welcome_message{
     public static void main(String[]args){
 

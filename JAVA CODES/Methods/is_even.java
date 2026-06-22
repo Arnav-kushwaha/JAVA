@@ -1,3 +1,4 @@
+package Methods;
 import java.util.Scanner;
 public class is_even{
     // Create a method isEven(int number) that returns true if the number is even.
